@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="page_1" size="0.297000 0.209846" />
+    <ImageTarget name="example_5-star_grayscale" size="0.440000 0.308000" />
+    <ImageTarget name="46450976_10157103181873598_7749388163365208064_o" size="0.240000 0.164776" />
+    <ImageTarget name="close" size="0.210000 0.210585" />
+    <ImageTarget name="Snps501519030709090" size="0.440000 0.284706" />
+    <ImageTarget name="Snps501519030709110" size="0.440000 0.284706" />
+    <ImageTarget name="4" size="0.440000 0.284706" />
+    <ImageTarget name="3" size="0.440000 0.284706" />
+    <ImageTarget name="2" size="0.440000 0.284706" />
+    <ImageTarget name="review-1" size="0.440000 0.284706" />
+    <ImageTarget name="review" size="0.440000 0.284706" />
+    <ImageTarget name="content" size="0.440000 0.284706" />
+    <ImageTarget name="snow" size="0.440000 0.287207" />
+    <ImageTarget name="Snps501519030610420" size="0.440000 0.311073" />
+    <ImageTarget name="littleMatch" size="0.220000 0.320241" />
+    <ImageTarget name="snowPage" size="0.220000 0.316709" />
+    <ImageTarget name="lastPage" size="0.220000 0.276843" />
+    <ImageTarget name="coverPage" size="0.220000 0.263919" />
+    <ImageTarget name="mickey" size="0.160000 0.160000" />
+    <ImageTarget name="114173" size="0.035000 0.030363" />
+  </Tracking>
+</QCARConfig>
